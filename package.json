@@ -1,0 +1,13 @@
+{
+  "name": "@piaochen/easy-encryption", 
+  "version": "1.0.0", 
+  "description": "super easy encode and decode. ", 
+  "main": "index.js", 
+  "repository": { 
+    "type": "git",
+    "url": "git+https://gitee.com/piao-chen/easy-encode-decode"
+  },
+  "keywords": ["js", "encode", "decode", "easy"], 
+  "author": "piaochen", 
+  "license": "ISC"
+}
