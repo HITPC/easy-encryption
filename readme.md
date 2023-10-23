@@ -1,6 +1,6 @@
 # easyEncryption Encryption
 
-EasyIC is a simple encryption and decryption library implemented in JavaScript.
+EasyEncryption is a simple encryption and decryption library implemented in JavaScript.
 
 ## Installation
 

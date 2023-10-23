@@ -5,7 +5,7 @@
   "main": "index.js", 
   "repository": { 
     "type": "git",
-    "url": "git+https://gitee.com/piao-chen/easy-encode-decode"
+    "url": "git+https://github.com/HITPC/easy-encryption"
   },
   "keywords": ["js", "encode", "decode", "easy"], 
   "author": "piaochen", 
