@@ -31,7 +31,10 @@ You can now use the `doEncode` and `doDecode` methods to encrypt and decrypt str
 // Encrypt a string
 let ciphertext = ee.doEncode("HelloWorld"); // cMajQBpYsgnwsQHDiBPOTezlERPsQvsulGINyvJoQWFKCtYLvCojxbFpYrYdSHqXjLDE
 /*
-Perhaps the effect of your encryption is different from mine, because easyEncryption uses random numbers during the encryption process, resulting in different encrypted strings in each encryption. But it won't affect its normal decryption!
+Perhaps the effect of your encryption is different from mine, 
+because easyEncryption uses random numbers during the encryption process, 
+resulting in different encrypted strings in each encryption. 
+But it won't affect its normal decryption!
 */
 
 // Decrypt a string
